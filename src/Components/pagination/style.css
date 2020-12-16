@@ -1,0 +1,20 @@
+
+.pagination_users ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.page-item{
+    list-style: none;
+    padding: 10px;
+}
+
+ .active {
+    background: rgb(11,63,141);
+     color: white;
+     overflow: hidden;
+     border-radius: 12px;
+}
